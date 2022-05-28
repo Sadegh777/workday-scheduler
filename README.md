@@ -65,7 +65,7 @@ A simple calendar application that allows the user to save events for each hour 
 
 To clone the repo:
 ```
-git clone git@github.com:jfisher396/workday-scheduler.git
+git clone https://github.com/Sadegh777/workday-scheduler.git
 ``` 
 
 ## Contributing
